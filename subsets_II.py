@@ -20,3 +20,7 @@ class Solution(object):
 
 if __name__ == '__main__':
     print(Solution().subsetsWithDup([4,4,4,1,4]))
+
+'''Given an integer array nums that may contain duplicates, return all possible subsets (the power set).
+
+The solution set must not contain duplicate subsets. Return the solution in any order.'''
